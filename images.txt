@@ -2,3 +2,4 @@ xiaoyaliu/alist
 xhofe/alist
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
 --platform=linux/arm/v7 xhofe/alist:latest-ffmpeg
+--platform=linux/arm/v7 weejewel/wg-easy:latest
