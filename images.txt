@@ -1,6 +1,6 @@
 xiaoyaliu/alist
 xhofe/alist
-ghcr.io/shmick/docker-cloudflared:latest
+shmick/docker-cloudflared:latest
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
 --platform=linux/arm/v7 xhofe/alist:latest-ffmpeg
 --platform=linux/arm/v7 weejewel/wg-easy:latest
