@@ -1,5 +1,7 @@
 xiaoyaliu/alist
 xhofe/alist
+
+mydaoke/nps:wky
 --platform=linux/arm/v7 ghcr.io/shmick/docker-cloudflared:latest
 --platform=linux/arm/v7 xiaoyaliu/alist:latest
 --platform=linux/arm/v7 xhofe/alist:latest-ffmpeg
