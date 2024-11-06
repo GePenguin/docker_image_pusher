@@ -8,3 +8,4 @@ mydaoke/nps:wky
 --platform=linux/arm/v7 weejewel/wg-easy:latest
 --platform=linux/arm/v7 dreamwsbg/openwrt:14.0
 --platform=linux/arm/v7 bestoray/pgyvpn:latest
+--platform=linux/arm/v7 alpine/sqlite:latest
