@@ -9,3 +9,5 @@ mydaoke/nps:wky
 --platform=linux/arm/v7 dreamwsbg/openwrt:14.0
 --platform=linux/arm/v7 bestoray/pgyvpn:latest
 --platform=linux/arm/v7 alpine/sqlite:latest
+imzcc/openresty:1.21.4.1-7-alpine
+--platform=linux/arm/v7 alpine/mysql:latest
