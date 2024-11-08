@@ -13,3 +13,4 @@ imzcc/openresty:1.21.4.1-7-alpine
 --platform=linux/arm/v7 alpine/mysql:latest
 biarms/mysql:5.5.62-linux-arm32v7
 --platform=linux/arm/v7 biarms/mysql:5.7.33-beta-circleci
+--platform=linux/arm/v7 joyqi/typecho:nightly-php8.2-apache
